@@ -1,0 +1,38 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+    text-align: center;
+    font-size: medium;
+    color: blueviolet;
+}
+
+.container {
+    align-items: center;
+}
+
+.body-title {
+    display: flex;
+}
+
+.body-title h3 {
+    width: 390px;
+    color: blueviolet;
+}
+
+.body-card {
+    border-style: solid;
+    border-width: 2px;
+    border-color: bisque;
+    border-radius: 15px;
+    width: 450px;
+    margin: 0px auto;
+    padding: 10px;
+    text-align: justify;
+}
+
+.body-photo img {
+    width: 450px;
+    height: 270px;
+}
